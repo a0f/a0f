@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Terminal-style profile card: full-stack engineer, applied AI, LLM evaluation, Codam, Amsterdam">
+  <style>
+    text { font-family: ui-monospace, "SFMono-Regular", "Cascadia Mono", Menlo, Consolas, monospace; font-size: 15px; }
+    .bg { fill: #f6f8f7; }
+    .bar { fill: #e8edeb; }
+    .frame { fill: none; stroke: #cdd6d3; }
+    .art { fill: #3f7a2a; font-size: 14px; white-space: pre; }
+    .key { fill: #1f7f8c; }
+    .val { fill: #1d2523; }
+    .dim { fill: #66736f; }
+    .prompt { fill: #3f7a2a; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="819" height="299" rx="10"/>
+  <rect class="bar" x="1" y="1" width="818" height="30" rx="10"/>
+  <rect class="bar" x="1" y="20" width="818" height="11"/>
+  <rect class="frame" x="0.5" y="0.5" width="819" height="299" rx="10"/>
+  <circle cx="22" cy="16" r="5.5" fill="#e06c75"/>
+  <circle cx="40" cy="16" r="5.5" fill="#e5c07b"/>
+  <circle cx="58" cy="16" r="5.5" fill="#98c379"/>
+  <text class="dim" x="410" y="21" text-anchor="middle" font-size="13">a0f@github: ~</text>
+
+  <text x="28" y="62"><tspan class="prompt">a0f@github</tspan><tspan class="dim">:</tspan><tspan class="key">~</tspan><tspan class="dim">$ </tspan><tspan class="val">neofetch</tspan></text>
+
+  <text class="art" x="28" y="98">   __ _  ___  / _|</text>
+  <text class="art" x="28" y="116">  / _` |/ _ \| |_ </text>
+  <text class="art" x="28" y="134"> | (_| | (_) |  _|</text>
+  <text class="art" x="28" y="152">  \__,_|\___/|_|  </text>
+  <text class="art" x="28" y="188">  [ build ]</text>
+  <text class="art" x="28" y="206">  [ evaluate ]</text>
+  <text class="art" x="28" y="224">  [ ship ]</text>
+
+  <text x="300" y="98"><tspan class="prompt">a0f</tspan><tspan class="dim">@</tspan><tspan class="prompt">github</tspan></text>
+  <text class="dim" x="300" y="116">-------------------------------------</text>
+  <text x="300" y="138"><tspan class="key">Role</tspan><tspan class="val" x="380">Full-stack engineer, applied AI</tspan></text>
+  <text x="300" y="160"><tspan class="key">Focus</tspan><tspan class="val" x="380">LLM evaluation, guardrails, agents</tspan></text>
+  <text x="300" y="182"><tspan class="key">Stack</tspan><tspan class="val" x="380">TypeScript, React, PostgreSQL, Python</tspan></text>
+  <text x="300" y="204"><tspan class="key">Models</tspan><tspan class="val" x="380">Self-hosted open weights</tspan></text>
+  <text x="300" y="226"><tspan class="key">School</tspan><tspan class="val" x="380">Codam (42 network)</tspan></text>
+  <text x="300" y="248"><tspan class="key">Based</tspan><tspan class="val" x="380">Amsterdam, NL</tspan></text>
+
+  <rect x="300" y="264" width="22" height="12" fill="#f6f8f7" stroke="#cdd6d3"/>
+  <rect x="326" y="264" width="22" height="12" fill="#e06c75"/>
+  <rect x="352" y="264" width="22" height="12" fill="#98c379"/>
+  <rect x="378" y="264" width="22" height="12" fill="#e5c07b"/>
+  <rect x="404" y="264" width="22" height="12" fill="#61afef"/>
+  <rect x="430" y="264" width="22" height="12" fill="#c678dd"/>
+  <rect x="456" y="264" width="22" height="12" fill="#56b6c2"/>
+  <rect x="482" y="264" width="22" height="12" fill="#e4edea"/>
+</svg>
